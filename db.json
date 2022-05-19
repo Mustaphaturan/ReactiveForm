@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshnessList": " Brand New ",
+      "price": 5,
+      "comment": "Fresh",
+      "date": "2022-05-18T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Hamburger",
+      "category": "Vegatables",
+      "freshnessList": " Brand New ",
+      "price": 5,
+      "comment": "Fresh",
+      "date": "2022-05-18T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Asus Computer ",
+      "category": "Electronics",
+      "freshnessList": " Second Hand ",
+      "price": 50,
+      "comment": "16 GB RAM\n 256 SSD\n 1TB HDD",
+      "date": "2022-05-18T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshnessList": " Brand New ",
+      "price": 5,
+      "comment": "Fresh",
+      "date": "2022-05-18T21:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
